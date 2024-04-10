@@ -1,10 +1,10 @@
 ### Universidad Peruana de Ciencias Aplicadas
 ### SI728 | WS82 | Arquitecturas de Software Emergentes
-### Profesor: Angel Augusto Velasquez Nuñez
+### Profesor: Royer Edelwer Rojas Malasquez
 ### Ingeniería de Software
 .
-# ZTech
-### TB1 REPORT - LOS CHIFEROS
+# EnergyXChain
+### TB1 REPORT
 ================================
 #### Team members
 - Contreras Salazar, Kendall Ramiro (U20181f759)
