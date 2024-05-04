@@ -6,7 +6,7 @@ Registro de versiones del informe
 | 2.0     | 1/05/2024  | Kendall Ramiro Contreras Salazar, Piero Anthony Liberato Susanibar, Leonardo Grau, Marzzio Braulio Chicana Romero, Farid Josué Izquierdo Cristobal | Desarrollamos Capítulo 5 y Capítulo 6                         |
 
 Enlace Repositorio Documentación Markdown:
-<https://github.com/Arquitectura-Software-Emergentes-Grupo1/Reports>
+<https://github.com/Arquitectura-Software-Emergentes-Grupo1/Reports/blob/main/upc-pre-202302-si728-WS82-EnergyXChain-report-tp1.md>
 
 Student Outcome
 
